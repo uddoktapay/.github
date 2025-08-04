@@ -1,6 +1,6 @@
 <h1 align="center">UddoktaPay</h1>
 <p align="center">
-  <strong>Open Source · Self-Hosted · Developer-Friendly Payment Infrastructure</strong>
+  <strong>Self-Hosted · Developer-Friendly Payment Infrastructure</strong>
 </p>
 <p align="center">
   Build your own payment gateway platform. No vendor lock-in. Fully yours.
@@ -10,7 +10,7 @@
 
 ## What is UddoktaPay?
 
-**UddoktaPay** is a self-hosted, open-source payment gateway platform built for developers, startups, and businesses that want full control over their payment infrastructure.
+**UddoktaPay** is a self-hosted payment gateway platform built for developers, startups, and businesses that want full control over their payment infrastructure.
 
 Think of it as your own version of a Stripe-like platform — extensible, API-powered, and fully customizable.
 
@@ -36,16 +36,6 @@ UddoktaPay is designed with simplicity, control, and flexibility in mind. Whethe
 > Includes APIs & webhooks
 ---
 
-## Contribute
-
-We welcome worldwide contributions — from developers, designers, tech writers, testers, and early adopters.
-
-- Star & fork the repos
-- Open issues or discussions
-- Create PRs for bug fixes or features
-
----
-
 ## Get in Touch
 
 - 🌐 Website: [uddoktapay.com](https://uddoktapay.com)
@@ -57,3 +47,4 @@ We welcome worldwide contributions — from developers, designers, tech writers,
 <p align="center">
   💙 Built by developers, for developers.
 </p>
+
